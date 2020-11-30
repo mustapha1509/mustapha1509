@@ -64,7 +64,7 @@ My name is Mustapha Nasraoui and I am a web developer from Tunis, Tunisia. I do 
     <img alt="Slack" src="https://img.shields.io/badge/Slack (@Mustapha Nasraoui)-4A154B?logo=slack&logoColor=white&style=for-the-badge" />
   </a>
   <a href="#">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord (Mustapha#8433)-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord( Mustapha8433)-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://twitter.com/mustapha1509">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
@@ -82,3 +82,5 @@ My name is Mustapha Nasraoui and I am a web developer from Tunis, Tunisia. I do 
 ### Github stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustapha1509&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha+Nasraoui's+GitHub+Stats&show_icons=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha1509&layout=compact)
