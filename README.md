@@ -87,4 +87,4 @@ My name is Mustapha Nasraoui and I am a web developer from Tunis, Tunisia. I do 
 
 ### Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustapha1509&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha+Nasraoui's+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustapha1509&hide=contribs,prs&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha+Nasraoui's+GitHub+Stats&show_icons=true" />
