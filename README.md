@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Mustapha Nasraoui and I am a web developer from Tunis, Tunisia. I do a lot of things, and some of them you may even find interesting. 🤞
+My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tunisia. I do a lot of things, and some of them you may even find interesting. 🤞
 
 ---
 
@@ -13,15 +13,17 @@ My name is Mustapha Nasraoui and I am a web developer from Tunis, Tunisia. I do 
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white" />
-  <img alt="ReactJs" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white" />
-  <img alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img alt="AdonisJs" src="https://img.shields.io/badge/adonisjs-%23220052.svg?logo=adonisjs&logoColor=white" />
+  <img alt="ReactJs" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white" />
+  <img alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" />
+  <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?logo=tailwindcss&logoColor=white" />
+  <img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-%25-white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" />
@@ -38,23 +40,34 @@ My name is Mustapha Nasraoui and I am a web developer from Tunis, Tunisia. I do 
 
 ## Work experience
 
-#### DevOps at Peculium (01/2017 – present | Nanterre, Paris)
-  - Configure, and manage servers (GCP).
-  - Development of the company website.
-  - Automated build and deployment using Jenkins and kubernetes to reduce human error and speed up production processes.
-  - Configure and build docker images for company websites.
-  - Managed GitHub repositories and permissions, including branching and tagging.
+#### Full stack web developer - PECULIUM (01/2017 – present | Remote)
+  Within a team composed of a project manager, developers, data scientists and DevOps architects, I have carried out numerous missions on projects in the Blockchain and web3 sector:
+- Development of Python API within the Flask framework.
+- Integration of the Stripe and PayPal payment system.
+- Development of PHP administration interface within the Laravel framework.
+- Development of several frontal interfaces in ReactJs/NextJs/Vue Js.
+- Development of a web3 module (connect the portfolio, sign and send transactions via Metamask.) with nodeJs + contribution to the development of two solidity smart contracts (token + NFT).
+- Use of Google Cloud Services (GCP) for deploying services on kubernetes, database and file storage.
+- Containerisation of applications using Docker, Kubernetes and Jenkins CI/CD pipelines.
 
-#### Senior Web Developer TopSet Security (03/2010 – 09/2016 | Tunis, Tunisia)
-  - Planned, developed, tested, deployed, and maintained web applications. Provided effective troubleshooting and remediation for web applications. Wrote SQL statements and stored procedures.
-  - Worked well independently and within a team setting.
-  - Effectively translated client requirements into application designs and systems requirements.
-  - Followed policies and procedures related to application methods and quality standards at all times.
 
-### Junior Web Developer Print secure (06/2008 – 01/2010 | Tunis, Tunisia)
-  - Worked as a productive and positive team member to design, code, test, report, and debug operations.
-  - Managed front-end and back-end development in the company's Portfolio Analyst, Employee Track, and Account Management systems.
-  - Successfully identified, diagnosed, and fixed website problems, including broken links, typographical errors, and formatting issues.
+#### Senior Web Developer - Tunisie Catering (Jun 2012 - Nov 2016 | Tunis, Tunisia)
+  - Development of a web application:
+  - Purchase
+  - Airline flight planning
+  - Follow-up of the primary material
+  - Inventory management
+  - Sale
+  - Administration and maintenance of the application.
+ 
+#### Senior Web Developer - TopSet Security (Jan 2009 - May 2012 | Tunis, Tunisia)
+  - Development of an on-line learning site + administration interface with PHP, MySql, Javascript and CSS.
+  - Integration of a prepaid card payment module.
+  - Fixed bugs on existing website
+
+### Web Developer (Stage Initialization) - Print secure (Sep 2008 - Aug 2009 | Tunis, Tunisia)
+  - Development of the company's website.
+  - Managing IT equipment (maintenance, installation)
 
 ---
 
