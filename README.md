@@ -16,15 +16,19 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img alt="AdonisJs" src="https://img.shields.io/badge/adonisjs-%23220052.svg?logo=adonisjs&logoColor=white" />
+  <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white" />
   <img alt="ReactJs" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img alt="Web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?logo=tailwindcss&logoColor=white" />
   <img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-%25-white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white" />
@@ -35,6 +39,7 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
   <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" />
 </p>
 
 ---
