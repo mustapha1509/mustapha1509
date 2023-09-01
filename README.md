@@ -34,6 +34,7 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
   <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" />
 </p>
 
 ---
@@ -99,5 +100,4 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
 ---
 
 ### Github stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustapha1509&hide=contribs,prs&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha+Nasraoui's+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-stats-ebon-two.vercel.app/api?username=mustapha1509&prs&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha+Nasraoui's+GitHub+Stats&show_icons=true" />
