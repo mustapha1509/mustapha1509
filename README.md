@@ -105,4 +105,4 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
 ---
 
 ### Github stats
-<img align="center" src="https://github-stats-ebon-two.vercel.app/api?username=mustapha1509&prs&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha+Nasraoui's+GitHub+Stats&show_icons=true" />
+<img alt="Github stats" src="https://github-stats-ebon-two.vercel.app/api?username=mustapha1509&prs&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha+Nasraoui's+GitHub+Stats&show_icons=true" />
