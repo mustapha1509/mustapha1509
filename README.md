@@ -47,7 +47,18 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
 
 ## Work experience
 
-#### Full stack web developer - PECULIUM (01/2017 – present | Remote)
+#### Technical Lead - Goodif (03/202024 – present | Full-time)
+  As a Technical Lead, I led the design and development of an Islamic liquidity management application (Islamiq Liquidity Management), ensuring its seamless integration with banking payment systems.
+  
+  My responsibilities included:
+- Back-end development in PHP with a SQL Server database.
+- Integration of multi-factor authentication (MFA) using PKI to secure access.
+- Integration of the application with banking APIs for transaction execution and tracking.
+- Implementation of electronic signatures compliant with MX standards (XML Digital Signature, XAdES) for financial messages.
+- Structuring of the front-end in JavaScript with dependency management and compilation using Webpack.
+- Technical supervision of the entire project lifecycle: analysis, architecture, development, testing, and deployment (Docker, Red Hat Enterprise Linux).
+
+#### Full stack web developer - PECULIUM (01/2017 – 04/2024 | Remote)
   Within a team composed of a project manager, developers, data scientists and DevOps architects, I have carried out numerous missions on projects in the Blockchain and web3 sector:
 - Development of Python API within the Flask framework.
 - Integration of the Stripe and PayPal payment system.
