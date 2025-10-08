@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tunisia. I do a lot of things, and some of them you may even find interesting. 🤞
+My name is Mustapha Nasraoui, and I am a full-stack web developer from Tunis, Tunisia. I do a lot of things, and some of them you may even find interesting. 🤞
 
 ---
 
@@ -16,7 +16,7 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img alt="AdonisJs" src="https://img.shields.io/badge/adonisjs-%23220052.svg?logo=adonisjs&logoColor=white" />
-  <img alt="Grpc/ProtoBuff" src="https://img.shields.io/badge/Grpc/ProtBuff-blue" />
+  <img alt="Grpc/ProtoBuff" src="https://img.shields.io/badge/Grpc/ProtoBuff-blue" />
   <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white" />
   <img alt="ReactJs" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
@@ -48,9 +48,9 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
 ## Work experience
 
 #### Technical Lead - Goodif (05/2024 – present | Full-time)
-  As a Technical Lead, I led the design and development of an Islamic liquidity management application (Islamiq Liquidity Management), ensuring its seamless integration with banking payment systems.
-  
-  My responsibilities included:
+As a Technical Lead, I led the design and development of an Islamic liquidity management application (Islamiq Liquidity Management), ensuring its seamless integration with banking payment systems.
+
+My responsibilities included:
 - Back-end development in PHP with a SQL Server database.
 - Integration of multi-factor authentication (MFA) using PKI to secure access.
 - Integration of the application with banking APIs for transaction execution and tracking.
@@ -59,33 +59,32 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
 - Technical supervision of the entire project lifecycle: analysis, architecture, development, testing, and deployment (Docker, Red Hat Enterprise Linux).
 
 #### Full stack web developer - PECULIUM (01/2017 – 04/2024 | Remote)
-  Within a team composed of a project manager, developers, data scientists and DevOps architects, I have carried out numerous missions on projects in the Blockchain and web3 sector:
+Within a team composed of a project manager, developers, data scientists, and DevOps architects, I have carried out numerous missions on projects in the Blockchain and web3 sector:
 - Development of Python API within the Flask framework.
-- Integration of the Stripe and PayPal payment system.
+- Integration of the Stripe and PayPal payment systems.
 - Development of PHP administration interface within the Laravel framework.
 - Development of several frontal interfaces in ReactJs/NextJs/Vue Js.
-- Development of a web3 module (connect the portfolio, sign and send transactions via Metamask.) with nodeJs + contribution to the development of two solidity smart contracts (token + NFT).
-- Use of Google Cloud Services (GCP) for deploying services on kubernetes, database and file storage.
-- Containerisation of applications using Docker, Kubernetes and Jenkins CI/CD pipelines.
-
+- Development of a web3 module (connect the portfolio, sign, and send transactions via Metamask) with nodeJs + contribution to the development of two solidity smart contracts (token + NFT).
+- Use of Google Cloud Services (GCP) for deploying services on Kubernetes, database, and file storage.
+- Containerization of applications using Docker, Kubernetes, and Jenkins CI/CD pipelines.
 
 #### Senior Web Developer - Tunisie Catering (Jun 2012 - Nov 2016 | Tunis, Tunisia)
-  - Development of a web application:
+- Development of a web application:
   - Purchase
   - Airline flight planning
   - Follow-up of the primary material
   - Inventory management
   - Sale
   - Administration and maintenance of the application.
- 
+
 #### Senior Web Developer - TopSet Security (Jan 2009 - May 2012 | Tunis, Tunisia)
-  - Development of an on-line learning site + administration interface with PHP, MySql, Javascript and CSS.
-  - Integration of a prepaid card payment module.
-  - Fixed bugs on existing website
+- Development of an online learning site + administration interface with PHP, MySql, JavaScript, and CSS.
+- Integration of a prepaid card payment module.
+- Fixed bugs on existing website.
 
 ### Web Developer (Stage Initialization) - Print secure (Sep 2008 - Aug 2009 | Tunis, Tunisia)
-  - Development of the company's website.
-  - Managing IT equipment (maintenance, installation)
+- Development of the company's website.
+- Managing IT equipment (maintenance, installation).
 
 ---
 
@@ -117,4 +116,4 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
 ---
 
 ### Github stats
-<img alt="Github stats" src="https://github-stats-ebon-two.vercel.app/api?username=mustapha1509&prs&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha+Nasraoui's+GitHub+Stats&show_icons=true" />
+<img alt="Github stats" src="https://github-stats-ebon-two.vercel.app/api?username=mustapha1509&prs&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha Nasraoui's GitHub Stats" />
