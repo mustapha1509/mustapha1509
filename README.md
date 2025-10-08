@@ -47,7 +47,7 @@ My name is Mustapha Nasraoui and I am a full-stack web developer from Tunis, Tun
 
 ## Work experience
 
-#### Technical Lead - Goodif (03/202024 – present | Full-time)
+#### Technical Lead - Goodif (05/2024 – present | Full-time)
   As a Technical Lead, I led the design and development of an Islamic liquidity management application (Islamiq Liquidity Management), ensuring its seamless integration with banking payment systems.
   
   My responsibilities included:
