@@ -115,5 +115,8 @@ Within a team composed of a project manager, developers, data scientists, and De
 
 ---
 
-### Github stats
-<img alt="Github stats" src="https://github-stats-ebon-two.vercel.app/api?username=mustapha1509&prs&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&custom_title=Mustapha Nasraoui's GitHub Stats" />
+### GitHub stats
+<p>
+  <img alt="Mustapha's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mustapha1509&show_icons=true&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&hide_border=true" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha1509&layout=compact&title_color=1877F2&text_color=0C2233&hide_border=true" />
+</p>
