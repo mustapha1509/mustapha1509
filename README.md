@@ -125,7 +125,6 @@ Within a team composed of a project manager, developers, data scientists, and De
 
 ### GitHub stats
 <p>
-  <img alt="Mustapha's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=mustapha1509&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" /> <br />
-  <img alt="Streak" src="https://streak-stats.demolab.com/?user=mustapha1509&theme=ambient_gradient&hide_border=true" /> <br />
-  <img alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mustapha1509&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  <img alt="Mustapha's GitHub stats" src="https://github-stats-ebon-two.vercel.app/api?username=mustapha1509&show_icons=true&show=prs_merged_percentage" />
+  <img alt="Most used languages" src="https://github-stats-ebon-two.vercel.app/api/top-langs/?username=mustapha1509&layout=donut" />
 </p>
