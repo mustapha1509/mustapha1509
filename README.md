@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Mustapha Nasraoui, and I am a full-stack web developer from Tunis, Tunisia. I do a lot of things, and some of them you may even find interesting. 🤞
+My name is Mustapha Nasraoui, and I am a senior full-stack web developer from Tunis, Tunisia. I do a lot of things, and some of them you may even find interesting. 🤞
 
 ---
 
@@ -11,6 +11,7 @@ My name is Mustapha Nasraoui, and I am a full-stack web developer from Tunis, Tu
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
@@ -33,14 +34,21 @@ My name is Mustapha Nasraoui, and I am a full-stack web developer from Tunis, Tu
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white" />
+  <img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
+  <img alt="Microsoft SQL Server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" />
+  <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff" />
+  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff" />
+  <img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
 </p>
 
 ---
@@ -117,6 +125,7 @@ Within a team composed of a project manager, developers, data scientists, and De
 
 ### GitHub stats
 <p>
-  <img alt="Mustapha's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mustapha1509&show_icons=true&count_private=true&title_color=1877F2&icon_color=1877F2&text_color=0C2233&hide_border=true" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha1509&layout=compact&title_color=1877F2&text_color=0C2233&hide_border=true" />
+  <img alt="Mustapha's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=mustapha1509&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" /> <br />
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=mustapha1509&theme=ambient_gradient&hide_border=true" /> <br />
+  <img alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mustapha1509&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
